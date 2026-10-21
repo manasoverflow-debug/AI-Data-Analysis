@@ -1,4 +1,4 @@
-# AI Data Studio — Sales Data Engineering Pipeline
+# AI Data Analysis — Sales Data Engineering Pipeline
 
 A Python-based sales data pipeline that reads raw sales records from Snowflake, cleans and validates the data, identifies data-quality issues, stores cleaned records, and produces reporting outputs for analysis and visualization.
 
